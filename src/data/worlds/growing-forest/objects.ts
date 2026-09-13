@@ -46,11 +46,28 @@ export const forestObjects: WorldObject[] = [
     },
   },
   {
-  id: "butterfly",
-  asset: "/assets/worlds/growing-forest/student-butterfly.svg",
-  contributor: {
-    displayName: "<Nathasha>",
-    githubUsername: "<NathashaOshani>",
+    id: "butterfly",
+    asset: "/assets/worlds/growing-forest/student-butterfly.svg",
+    contributor: {
+      displayName: "Nathasha",
+      githubUsername: "NathashaOshani",
+    },
   },
-},
+  {
+    id: "river-woodland-flower",
+    asset: "/assets/worlds/growing-forest/woodland-flower.svg",
+    contributor: {
+      displayName: "Sithum Manusha",
+      githubUsername: "SithumManusha",
+    },
+  },
+
+  {
+    id: "woodland-flower",
+    asset: "/assets/worlds/growing-forest/woodland-flower.svg",
+    contributor: {
+      displayName: "DilshanMolligoda😉",
+      githubUsername: "DNM2002",
+    },
+  },
 ];
