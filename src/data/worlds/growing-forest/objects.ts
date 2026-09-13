@@ -45,4 +45,12 @@ export const forestObjects: WorldObject[] = [
       githubUsername: "DileepaPRA",
     },
   },
+  {
+  id: "butterfly",
+  asset: "/assets/worlds/growing-forest/student-butterfly.svg",
+  contributor: {
+    displayName: "<Your Name>",
+    githubUsername: "<your-github-username>",
+  },
+},
 ];
