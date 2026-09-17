@@ -70,4 +70,31 @@ export const forestObjects: WorldObject[] = [
       githubUsername: "DNM2002",
     },
   },
+  {
+    id: "red-mushroom-sewmini",
+    asset: "/assets/worlds/growing-forest/red-mushroom.svg",
+    contributor: {
+      displayName: "hello...i'm..🌝",
+      githubUsername: "sewmini12",
+    },
+  },
+    {
+    id: "river-woodland-flower-sadali",
+    asset: "/assets/worlds/growing-forest/woodland-flower.svg",
+    contributor: {
+      displayName: "sadali",
+      githubUsername: "sewmini12",
+    },
+  },
+
+  {
+  id: "crest-evergreen-akeel", // e.g. "crest-evergreen-alex" (lowercase kebab-case),
+  asset: "/assets/worlds/growing-forest/pine-tree.svg",
+  contributor: {
+    displayName: "Akeel Rishan",
+    githubUsername: "Akeel-Rishan",
+  },
+},
 ];
+
+
